@@ -13,4 +13,4 @@ Software developer building KernelSU / Magisk / APatch modules for OxygenOS.
 
 | Project | Description |
 |---------|-------------|
-| [Asus Zenbook UX5304VA Sound Fix](https://github.com/badgers-ua/asus_zenbook_ux5304va_sound) | SSDT patch to fix missing speakers on Asus Zenbook S13 OLED |
+| [Asus Zenbook UX5304VA Sound Fix](https://github.com/badgers-ua/asus_zenbook_ux5304va_sound) | SSDT patch to fix missing speakers sound on Asus Zenbook S13 OLED |
