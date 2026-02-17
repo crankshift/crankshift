@@ -1,6 +1,6 @@
 ### Hey, I'm crankshift
 
-Software developer building KernelSU / Magisk / APatch modules for OxygenOS.
+Software developer building Amazing web/mobile apps as well as KernelSU / Magisk / APatch modules for Android.
 
 #### Modules
 
